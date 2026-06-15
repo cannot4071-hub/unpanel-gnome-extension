@@ -13,3 +13,7 @@ Run Alt + F2, type `r` and hit enter.
 
 - On Wayland
 ... uh.... oh yeah! Log out and Log back in.
+
+
+
+Actually I'll make a python script that installs it for you. I know the terminal is scary for you.
