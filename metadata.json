@@ -1,0 +1,11 @@
+{
+  "description": "Top panel is gone when a window is in fullscreen mode.",
+  "name": "Unpanel - Optimized",
+  "shell-version": [
+    "48",
+    "49",
+    "50"
+  ],
+  "uuid": "unpanel@cannot4071-hub",
+  "version": 1
+}
